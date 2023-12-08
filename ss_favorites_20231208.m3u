@@ -1,0 +1,146 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="736" group="Latinos" logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png", CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Telered" logo="https://lh3.googleusercontent.com/-NCv13SGaRQE/XtRgHXHBOVI/AAAAAAAA1VM/pv6D0L7XqWE_PqRQ4p47m9yUBtMm3mlvACK8BGAsYHg/s0/2020-05-31.png", Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Buin Somos Todos" logo="https://lh3.googleusercontent.com/-qHSWQUuG5HU/XkIKFkSMFBI/AAAAAAAAv-o/80_hG25Pe6cfe7Dm3Uc6VDpcMp2Nd3ImwCK8BGAsYHg/s0/2020-02-10.png", Buin Somos Todos
+https://bst.buin.cl/0.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2146", TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
+#EXTINF:0 type="stream" channelId="-1" group="Channels", CANAL 9 teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 type="stream" channelId="2659" group="Channels", CANAL 6
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+#EXTINF:0 type="stream" channelId="-1" group="Channels", MUSICA:Music Top (Argentina)
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", LATINO:CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1", HONDURAS:TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="4656", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+#EXTINF:0 type="stream" channelId="-1", Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+#EXTINF:0 type="stream" channelId="-1" group="ACCION" logo="https://pelisforte.nu/wp-content/uploads/2019/05/deadpool-2-284-poster-170x252.jpg", Deadpool 2 UNRATED(PelisForte.nu)
+https://hls.guayhd.me/videos/c4e3bf69f4d297f9678aac5298993a2d/720/720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Ciencia Ficcion" logo="https://pelisforte.nu/wp-content/uploads/2022/07/7uEh9kpQWJgaebgPXVCPf88wsFe-170x255.jpg", La princesa(pelisforte.nu)
+https://hls.guayhd.me/videos/212ad9a94d27c00e60bbf06f7fd49f18/720/720p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Acción" logo="https://pelisimg.online/cover/arma-letal-1.jpg", Arma Letal 4 (1998)(pelisplushd.so)
+https://server01.mxcdnab.online/newhls/da7cf30ed25eadc4aeba961ba73cb8db/EP.0.1.v0.1677503160.720.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://oscar220374.com/wp-content/uploads/2023/10/iVVvlosgMU6aePXavihV3L3V3D6-200x300.jpg" subtitles="https://raw.githubusercontent.com/MarcoMen1/Surrounded-Nunca-te-rindas/main/Surrounded.2023.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.es.srt", Surrounded Nunca te rindas
+https://player.osjonosu.xyz/videos/4e6e12587385ed0ae36f7d81fe685299/1080/1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Argentina" logo="https://i.imgur.com/sZ1yE4e.png" tvg-country="AR", Multivisión Federal (720p)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA" tvg-country="US", Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:0 type="stream" channelId="-1" group="Bolivia" logo="https://i.imgur.com/eTDc0wd.jpg" tvg-country="BO", RTP (720p)
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4513" group="Colombia" logo="https://cdn.colombia.com/canales/canal-2-1725.jpg" tvg-country="CO", Canal 2
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="El Salvador" logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" tvg-country="SV;PE", WOW TV (720p)
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" tvg-country="US", MyTime movie network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="ENTRETENIMIENTO" logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" tvg-country="US", MyTime movie network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="O- TCM HD" group="DistroTV", Cine Horrorfy
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8?c_producer=Horrorfy&dnt=0&app_bundle=undefined&app_name=DistroTV&app_store_url=undefined&did=d50f7d31-21b1-4665-b1fe-c51f40c27bea&app_domain=&device_make=&device_model=&coppa=0&ads.islive=1&ads.streamtype=live
+#EXTINF:0 type="stream" channelId="-1" name="CIN126: UNIVERSAL PREMIERE FHD" group="CINEMEX" logo="https://images.lindependant.fr/api/v1/images/view/5b5f5d268fe56f67eb39d85b/large/image.jpg", CIN126: UNIVERSAL PREMIERE FHD
+http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/39493
+#EXTINF:0 type="stream" channelId="-1" name="CIN147: GOLDEN PREMIER  FHD" group="CINEMEX" logo="https://th.bing.com/th/id/R.b87ef0db69a362abc9146c4687e227e1?rik=VJ8C%2b%2ffBSbAgvA&pid=ImgRaw&r=0", CIN147: GOLDEN PREMIER  FHD
+http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/39514
+#EXTINF:0 type="stream" channelId="-1" group="Películas" logo="http://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png", Estrellas de Acción
+http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6f3c0770-eb66-11ed-a187-e56a6a68d186&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1a9d642d-715d-4b14-b202-cb84f1308550&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1", TeleMix
+https://panel.dattalive.com/8068/8068/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Xtrema Retro Series (360p)
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="CIN127: UNIVERSAL PREMIERE HD" group="CINEMEX" logo="https://images.lindependant.fr/api/v1/images/view/5b5f5d268fe56f67eb39d85b/large/image.jpg", CIN127: UNIVERSAL PREMIERE HD
+http://ufospeeds.com:2095/247Vod/6sBfMnV9Nkxz/39494
+#EXTINF:0 type="stream" channelId="2659", MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?CeceGeek.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA" tvg-country="US", Pluto TV Cine Comédia (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 type="stream" channelId="-1" group="ESPANA" logo="https://i.imgur.com/hwlTrtF.png" tvg-country="ES", Popular TV Cantabria (512p)
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:0 type="stream" channelId="-1", Xtrema Cine Suspenso (360p)
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Accion" logo="https://pelisimg.online/cover/mente-implacable.jpg", Mente Implacable (cuevana3.ch)
+https://server15.peliscdn.online/newhls/4127922c1258ea3d820fb436693fcfe7/EP.0.2.v1.1676260056.720.m3u8
+#EXTINF:0 type="stream" channelId="-1", Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Retro Plus TV Señal 3" logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3 ✪ | CL
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Apanines TV" logo="https://cdn.m3u.cl/logo/1436_Apanines_TV.png", Apanines TV ✪ | CL
+https://tgn.bozztv.com/ssh101/ssh101/apaninestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Moni TV" logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png", Moni TV ✪ | CL
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="2057" name="Terror TV" logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV ✪ | CL
+https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="PlanetaTV Movies" logo="https://cdn.m3u.cl/logo/1016_PlanetaTV_Movies.png", PlanetaTV Movies ✪ | CL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Opinionsur TV" logo="https://cdn.m3u.cl/logo/1087_Opinionsur_TV.png", Opinionsur TV ✪ | CL
+https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="+Cine" logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine | CL
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="PlanetaTV Kids" logo="https://cdn.m3u.cl/logo/1015_PlanetaTV_Kids.png", PlanetaTV Kids | CL
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Exprezion TV" logo="https://cdn.m3u.cl/logo/67_Exprezion_TV.png", Exprezion TV | CL
+https://vdochile.com:3774/live/cnrhiawklive.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Caracola TV" logo="https://cdn.m3u.cl/logo/1020_Caracola_TV.png", Caracola TV | CL
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Enfoque Digital TV" logo="https://cdn.m3u.cl/logo/322_Enfoque_Digital_TV.png", Enfoque Digital TV | CL
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Señal 21" logo="https://cdn.m3u.cl/logo/1339_Senal_21.png", Señal 21 | CL
+https://tv.clientetvstudio.net:3078/live/senal21tvlive.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="TV EnPlacilla" logo="https://cdn.m3u.cl/logo/1455_TV_EnPlacilla.png", TV EnPlacilla | CL
+https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Canal 57 Melipilla" logo="https://cdn.m3u.cl/logo/338_Canal_57_Melipilla.png", Canal 57 Melipilla | CL
+https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Contivision" logo="https://cdn.m3u.cl/logo/81_Contivision.png", Contivision | CL
+https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" name="Soberania Radio" logo="https://cdn.m3u.cl/logo/370_Soberania_Radio.png", Soberania Radio | CL
+https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" aspect-ratio="16:9" size="Small" background="http://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png", NCIS
+http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6f3ec690-eb66-11ed-a187-e56a6a68d186&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f96d1233-fe71-494b-af3f-40bf7aceb5f3&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" logo="http://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png" background="http://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png", pluto-tv-cine-estelar
+http://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6f39bd81-eb66-11ed-a187-e56a6a68d186&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8182e64b-6d8f-48ad-a77d-7dabc5d4712e&userId=&serverSideAds=true
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.pinimg.com/564x/ab/54/03/ab5403f5f7c46d660b9b566da73de3be.jpg" background="https://i.pinimg.com/564x/ab/54/03/ab5403f5f7c46d660b9b566da73de3be.jpg", spectrumchannel
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1" logo="https://canalesdominicanos.live/template/images/radios/boreal-television.jpg" background="https://canalesdominicanos.live/template/images/radios/boreal-television.jpg", Boreal Television
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/vegavision2019-300x169.jpg" background="https://emisoradominicana.net/television/wp-content/uploads/2015/06/vegavision2019-300x169.jpg", Canal 18 Tv
+https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://canalesdominicanos.live/template/images/radios/pregotv.jpg" background="https://canalesdominicanos.live/template/images/radios/pregotv.jpg", Prego Tv HD
+https://vdo2.streamgato.us:3216/live/pregotvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://canalesdominicanos.live/template/images/radios/small/phtv.jpg" background="https://canalesdominicanos.live/template/images/radios/small/phtv.jpg", PH Tv HD
+https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://canalesdominicanos.live/template/images/radios/small/coco-tv.png" background="https://canalesdominicanos.live/template/images/radios/small/coco-tv.png", COCO Tv HD
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://canalesdominicanos.live/template/images/radios/small/infinito-tv.jpg" background="https://canalesdominicanos.live/template/images/radios/small/infinito-tv.jpg", Infinito Tv HD
+https://vdo1.streamgato.us:3057/live/infinitotvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://canalesdominicanos.live/template/images/radios/small/hmtv.png" background="https://canalesdominicanos.live/template/images/radios/small/hmtv.png", HM Tv HD
+https://cnn.essastream.com:3091/live/hmtvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://canalesdominicanos.live/template/images/radios/small/cananga-tv.jpeg" background="https://canalesdominicanos.live/template/images/radios/small/cananga-tv.jpeg", Cananga Tv HD
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://canalesdominicanos.live/template/images/radios/small/telemax.png" background="https://canalesdominicanos.live/template/images/radios/small/telemax.png", Telemaxlive Tv HD
+https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.ytimg.com/vi/yFKmAwO8Ku8/maxresdefault.jpg" background="https://i.ytimg.com/vi/yFKmAwO8Ku8/maxresdefault.jpg", Neo TV HD
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.mi-television.com/img/imagen-final-2_orig.png" background="https://www.mi-television.com/img/imagen-final-2_orig.png", Teleclasica TV HD
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="CINE Y SERIES", SERIES
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/NjS9j6rR/CINE_PREMIERE.png" group-title="CINE Y SERIES", CINE PREMIERE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eeb650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d68de35-eba9-49ed-8345-3e39294775b8&userId=&serverSideAds=true
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV ACCIÓN
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-72 group-title="CINE Y SERIES", TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
